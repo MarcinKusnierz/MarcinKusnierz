@@ -17,6 +17,9 @@ I am software architect
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="LabVIEW" alt="LabVIEW" width="40" height="40"/>&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcinkusnierz)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## :hammer_and_wrench: Frameworks and Tools
