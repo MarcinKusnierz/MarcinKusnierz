@@ -14,7 +14,9 @@ I am software architect
 
 ## :hammer_and_wrench: Languages
 
-![LabVIEW](https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="LabVIEW" alt="LabVIEW" width="40" height="40"/>&nbsp;
+</div>
 ---
 
 ## :hammer_and_wrench: Frameworks and Tools
